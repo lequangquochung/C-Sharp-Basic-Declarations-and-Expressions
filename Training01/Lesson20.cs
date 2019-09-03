@@ -21,7 +21,7 @@ namespace Training01
             }
             else
             {                
-                return b - a;
+                return Math.Abs(a-b);
             }
         }
     }
