@@ -1,0 +1,11 @@
+D:\CODE GYM\Module 2\C#\Training\Training01\bin\Debug\netcoreapp2.2\Training01.deps.json
+D:\CODE GYM\Module 2\C#\Training\Training01\bin\Debug\netcoreapp2.2\Training01.runtimeconfig.json
+D:\CODE GYM\Module 2\C#\Training\Training01\bin\Debug\netcoreapp2.2\Training01.runtimeconfig.dev.json
+D:\CODE GYM\Module 2\C#\Training\Training01\bin\Debug\netcoreapp2.2\Training01.dll
+D:\CODE GYM\Module 2\C#\Training\Training01\bin\Debug\netcoreapp2.2\Training01.pdb
+D:\CODE GYM\Module 2\C#\Training\Training01\obj\Debug\netcoreapp2.2\Training01.csprojAssemblyReference.cache
+D:\CODE GYM\Module 2\C#\Training\Training01\obj\Debug\netcoreapp2.2\Training01.csproj.CoreCompileInputs.cache
+D:\CODE GYM\Module 2\C#\Training\Training01\obj\Debug\netcoreapp2.2\Training01.AssemblyInfoInputs.cache
+D:\CODE GYM\Module 2\C#\Training\Training01\obj\Debug\netcoreapp2.2\Training01.AssemblyInfo.cs
+D:\CODE GYM\Module 2\C#\Training\Training01\obj\Debug\netcoreapp2.2\Training01.dll
+D:\CODE GYM\Module 2\C#\Training\Training01\obj\Debug\netcoreapp2.2\Training01.pdb
