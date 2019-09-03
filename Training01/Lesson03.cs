@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Training01
 {
-    class Lesson03
+    public class Lesson03
     {
-        static void Main()
+        public static void Main(string[] args)
         {
             int a = 20, b = 10;
             int dividing = a / b;

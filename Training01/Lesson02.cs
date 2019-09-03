@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Training01
 {
-    class Lesson02
+    public class Lesson02
     {
-        static void Main()
+        public static void Main(string[] args)
         {
             int a = 10, b = 20;
             int sum = a + b;

@@ -6,7 +6,7 @@ namespace Training01
 {
     public class Lesson04
     {
-        public static void Main()
+        public static void Main(string[] args)
         {
             Console.WriteLine(-1 + 4 * 6);
             Console.WriteLine((35 + 5) % 7);

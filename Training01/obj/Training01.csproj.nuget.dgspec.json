@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE GYM\\Module 2\\C#\\Training\\Training01\\Training01.csproj": {}
+    "D:\\CodeGym\\Module 2\\C# Basic\\C-Sharp-Basic-Declarations-and-Expressions\\Training01\\Training01.csproj": {}
   },
   "projects": {
-    "D:\\CODE GYM\\Module 2\\C#\\Training\\Training01\\Training01.csproj": {
+    "D:\\CodeGym\\Module 2\\C# Basic\\C-Sharp-Basic-Declarations-and-Expressions\\Training01\\Training01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE GYM\\Module 2\\C#\\Training\\Training01\\Training01.csproj",
+        "projectUniqueName": "D:\\CodeGym\\Module 2\\C# Basic\\C-Sharp-Basic-Declarations-and-Expressions\\Training01\\Training01.csproj",
         "projectName": "Training01",
-        "projectPath": "D:\\CODE GYM\\Module 2\\C#\\Training\\Training01\\Training01.csproj",
+        "projectPath": "D:\\CodeGym\\Module 2\\C# Basic\\C-Sharp-Basic-Declarations-and-Expressions\\Training01\\Training01.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE GYM\\Module 2\\C#\\Training\\Training01\\obj\\",
+        "outputPath": "D:\\CodeGym\\Module 2\\C# Basic\\C-Sharp-Basic-Declarations-and-Expressions\\Training01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

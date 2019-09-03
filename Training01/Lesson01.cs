@@ -4,8 +4,9 @@ using System.Text;
 
 namespace Training01
 {
-    class Lesson01
-    {        static void Main(string[] args)
+    public class Lesson01
+    {
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello: Alexandra Abramov");
         }
