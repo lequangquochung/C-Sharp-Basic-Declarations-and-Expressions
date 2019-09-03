@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-    <StartupObject>Training01.Lesson21</StartupObject>
+    <StartupObject>Training01.Lesson22</StartupObject>
     <ApplicationIcon />
   </PropertyGroup>
 
